@@ -14,12 +14,12 @@ def add_element_to_start_of_array(array, element)
   create_an_array.unshift("wow")
 end
 
-def remove_element_from_end_of_array(array)
+def remove_element_from_end_of_array(array == "arrays!")
   p create_an_array.pop()
   
 end
 
-def remove_element_from_start_of_array(array == "arrays!")
+def remove_element_from_start_of_array(array)
   
 end
 
